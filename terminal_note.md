@@ -32,12 +32,15 @@ cd 到對的位置
 
 ##### 在GitHub上創建一個和本地端名稱相同的資料夾，專案描述可寫可不寫、權限設為開放、README不用勾選
 
-git remote add origin URL
-
-
-git push -u origin master
-
+第一次
+    git remote add origin URL
+    git push -u origin master
 推上去這個branch
+
+
+只是更新    
+    git push 
+
 
 
 
