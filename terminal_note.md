@@ -10,6 +10,46 @@ cd 到對的位置
     git init
 
 
+    git add 檔名
+    或上傳全部檔案
+    git add .
+
+###### Staging Area
+    git commit -m '這次的修改描述'
+
+    git commit -e
+    可以有比較詳細的描述（多行）
+
+    git status
+    查看狀態
+
+    git log
+    查看所有的commit紀錄
+
+
+
+# 推送程式碼至Remote端 (Push/Pull)
+
+##### 在GitHub上創建一個和本地端名稱相同的資料夾，專案描述可寫可不寫、權限設為開放、README不用勾選
+
+git remote add origin URL
+
+
+git push -u origin master
+
+推上去這個branch
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -117,6 +157,8 @@ Normal 模式，又稱命令模式，在這個模式下，無法輸入文字，�
 
 
 ### Git Branch
+
+
 
 
 
