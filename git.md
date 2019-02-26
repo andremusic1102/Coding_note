@@ -109,6 +109,10 @@ paste URL
 
 # git 其他
 
+### 建立 .gitignore
+在 push 之前，要加入 .gitignore ，
+它會幫我們擋住一些 不必要push的檔案 ，像 node_modules 裡的所有套件，網路上全部都下載得到 所以也就沒必要推到我們的 repository
+
 
 ### 1. 看 Git 設定內容：
     git config --list
