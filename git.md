@@ -96,7 +96,7 @@ URL 要用http
 ```
 paste URL
 
-2. 選擇要存的本地位置
+2. 選擇要存的本地位置git 
 3. 打這次修改的描述
     commend + enter
 4. 更新，按左下角 上傳下載
